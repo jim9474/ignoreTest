@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>git .ignore 테스트</h1>
+	<p>자동빌드 될려나...??</p>
 </body>
 </html>
