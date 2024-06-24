@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>git .ignore 테스트</h1>
-	<p>자동빌드 될려나...??</p>
-	<P>메인에 바로 푸쉬될려나..</P>
+	<h1>git merge Test</h1>
 </body>
 </html>
